@@ -14,3 +14,5 @@ document.getElementById('app').innerHTML = `
 // Тут будем короче писать
 console.log('ОКЕЙ:)');
 //Точно
+
+// Тест отправки изменений на гитхаб
